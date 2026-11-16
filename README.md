@@ -1,2 +1,2 @@
-# Text-Mining-Projet
+# Text-Mining-Project
 Project of Text Mining &amp; Search Course
